@@ -16,12 +16,6 @@ I received the B.S. degree from Huazhong University of Science and Technology (H
 
 **Research Interests:** deep learning, quantum machine learning, distributed optimization.
 
-## Teaching
-
-**Fall 2024**
-
-[CS 625 - Data Visualization / online asynchronous](https://weiglemc.github.io/teaching/2024-fall-cs625)
-
 ## Research
 
 {% for post in site.publications reversed %}

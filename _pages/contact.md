@@ -20,4 +20,4 @@ Old Dominion University
 Norfolk, VA 23529-0162
 
 ## For GPD matters
-Email: [csgpd@odu.edu](mailto:csgpd@odu.edu)
+Email: [qianyang1217@gmail](qianyang1217@gmail.com)
