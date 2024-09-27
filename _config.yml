@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michele C. Weigle @ ODU"
+title                    : "Yang Qian"
 title_separator          : "-"
-name                     : &name "Michele C. Weigle"
-description              : &description "Professor of Computer Science"
-url                      : https://weiglemc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yang Qian"
+description              : &description "personal description"
+url                      : https://qqqyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weiglemc/weiglemc.github.io"
+repository               : "QQQYang/QQQYang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "digipres.club/@weiglemc"
+  username               : 
 twitter:
-  username               : "weiglemc"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,38 +82,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Michele C. Weigle"
-  avatar           : "mweigle-ODU.jpg"
-  bio              : "Professor of Computer Science"
-  location         : "Norfolk, VA"
-  employer         : "Old Dominion University"
-  employeruri      : "https://www.odu.edu"
-  pubmed           : 
-  googlescholar    : "http://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en"
-  email            : "mweigle at cs dot odu dot edu"
+  name             : "钱 扬(Yang Qian)"
+  avatar           : "photo-qy.png"
+  bio              : "Stay hungry, stay foolish"
+  location         : "Sydney"
+  employer         :
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=8Bt-CfgAAAAJ"
+  email            : "qianyang1217 at gmail dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.cs.odu.edu/~mweigle/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weiglemc"
+  github           : "QQQYang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "michele-weigle-559b052"
-  mastodon         : "digipres.club/@weiglemc"
-  orcid            : "https://orcid.org/0000-0002-2787-7166"
+  # linkedin         : "michele-weigle-559b052"
+  # mastodon         : "digipres.club/@weiglemc"
+  # orcid            : "https://orcid.org/0000-0002-2787-7166"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "weiglemc"
+  # twitter          : "weiglemc"
   vine             :
   weibo            :
   xing             :
