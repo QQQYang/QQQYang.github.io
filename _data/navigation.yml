@@ -18,8 +18,8 @@ main:
   # - title: "Schedule"
   #   url: /schedule/
            
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Contact"
   #   url: /contact/
