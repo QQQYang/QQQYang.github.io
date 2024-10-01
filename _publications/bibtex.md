@@ -7,6 +7,26 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [qian2024mgnet](#qian2024mgnet)
+
+Yang Qian, Xinbiao Wang, Yuxuan Du, Yong Luo, Dacheng Tao, "**MG-Net: Learn to Customize QAOA with Circuit Depth Awareness**," In *38th Conference on Neural Information Processing Systems (NeurIPS 2024)*, Sep 2024.
+
+[](#qian2024mgnetBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@inproceedings{qian2024mgnet,
+  title={MG-Net: Learn to Customize QAOA with Circuit Depth Awareness},
+  author={Qian, Yang and Wang, Xinbiao and Du, Yuxuan and Luo, Yong and Tao, Dacheng},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2024}
+}
+```
+
+{% endraw %}
+
 ## [qian2024multimodal](#qian2024multimodal)
 
 Yang Qian, Yuxuan Du, Zhenliang He, Min-Hsiu Hsieh, Dacheng Tao, "**Multimodal Deep Representation Learning for Quantum Cross-Platform Verification**," *Physical Review Letters*, Aug 2024. <a href='https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.130601' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
