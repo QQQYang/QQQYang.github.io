@@ -18,10 +18,4 @@ I received the B.S. degree from Huazhong University of Science and Technology (H
 
 ## Research
 
-{% for post in site.publications reversed %}
-  {% if post.type == "recent" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1zD_YueupbltfMc7cHE7iVF8WMkLezziZpfEPbPu8dQ&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=150&t=tt&d=1zD_YueupbltfMc7cHE7iVF8WMkLezziZpfEPbPu8dQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
