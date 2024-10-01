@@ -23,3 +23,5 @@ I received the B.S. degree from Huazhong University of Science and Technology (H
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1zD_YueupbltfMc7cHE7iVF8WMkLezziZpfEPbPu8dQ&cl=ffffff&w=a"></script>
