@@ -7,6 +7,29 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [linghu2024quantum](#linghu2024quantum)
+
+Kehuan Linghu<sup>\*</sup>, Yang Qian<sup>\*</sup>, Ruixia Wang, Meng-Jun Hu, Zhiyuan Li, Xuegang Li, Huikai Xu, Jingning Zhang, Teng Ma, Peng Zhao, Dong E Liu, Min-Hsiu Hsieh, Xingyao Wu, Yuxuan Du, Dacheng Tao, Yirong Jin, Haifeng Yu, "**Quantum circuit architecture search on a superconducting processor**", *Entropy*, Nov 2024. &nbsp;<a href='/publications/bibtex#linghu2024quantum' target='_blank' class='btn btn--mcwbibtex'><img src='../images/BibTeX_logo-16px-high.png'/></a>
+
+[](#linghu2024quantumBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@article{linghu2024quantum,
+  title={Quantum circuit architecture search on a superconducting processor},
+  author={Linghu, Kehuan and Qian, Yang and Wang, Ruixia and Hu, Meng-Jun and Li, Zhiyuan and Li, Xuegang and Xu, Huikai and Zhang, Jingning and Ma, Teng and Zhao, Peng and others},
+  journal={Entropy},
+  volume={26},
+  number={12},
+  pages={1025},
+  year={2024}
+}
+```
+
+{% endraw %}
+
 ## [qian2024mgnet](#qian2024mgnet)
 
 Yang Qian, Xinbiao Wang, Yuxuan Du, Yong Luo, Dacheng Tao, "**MG-Net: Learn to Customize QAOA with Circuit Depth Awareness**," In *38th Conference on Neural Information Processing Systems (NeurIPS 2024)*, Sep 2024.
