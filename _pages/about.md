@@ -11,7 +11,7 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 ---
-I received the B.S. degree from Huazhong University of Science and Technology (HUST) in 2016, and the M.S. degree from Institute of Automation Chinese Academy of Sciences (CASIA) in 2019. I received Ph.D degree in the School of Computer science, The University of Sydney under the supervision of Prof. Dacheng Tao in 2024.
+I am currently a Global Research Assistant Professor at the Department of Data Science in the City University of Hong Kong (CityUHK). I received the B.S. degree from Huazhong University of Science and Technology (HUST) in 2016, and the M.S. degree from Institute of Automation Chinese Academy of Sciences (CASIA) in 2019. I received Ph.D degree in the School of Computer science, The University of Sydney (USYD) under the supervision of Prof. Dacheng Tao in 2024.
 
 
 **Research Interests:** deep learning, quantum machine learning, distributed optimization.
